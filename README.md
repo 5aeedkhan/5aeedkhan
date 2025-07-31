@@ -1,4 +1,4 @@
-# �� Hi, I'm @5aeedkhan
+# Hi, I'm @5aeedkhan
 
 ## 🚀 About Me
 I'm a passionate **Flutter Developer** specializing in cross-platform mobile application development. With expertise in creating robust, scalable applications, I focus on delivering exceptional user experiences across iOS and Android platforms.
