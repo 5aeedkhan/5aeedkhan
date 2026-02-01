@@ -29,11 +29,10 @@ I'm actively seeking opportunities to collaborate on innovative cross-platform p
 ## 📫 Get In Touch
 - **Email**: muhammads4eedkhan@gmail.com
 - **LinkedIn**: linkedin.com/in/s4eedkhan
-- **Portfolio**: https://portfolio-c4b78.web.app/
+- **Portfolio**: https://saeedkhanportfolio.web.app/
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=radical)
-
+https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=tokyonight&count_private=true&hide=issues
 ---
 
 *Passionate about creating impactful mobile experiences through innovative Flutter development.*
