@@ -9,12 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout your repo
       - uses: actions/checkout@v4
 
-      # Ensure the profile folder exists
+      # Make sure profile folder exists
       - name: Ensure profile folder exists
         run: mkdir -p profile
 
+      # Generate stats card
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -23,6 +25,7 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GH_PAT }}
 
+      # Generate top languages card
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -31,6 +34,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
 
+      # Commit and push the cards using your PAT
       - name: Commit cards
         run: |
           git config user.name "github-actions"
