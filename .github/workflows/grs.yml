@@ -12,13 +12,12 @@ jobs:
       - uses: actions/checkout@v4
 
       # Ensure the profile folder exists
-- name: Ensure profile folder exists
-  run: |
-    if [ -f profile ]; then
-      rm profile
-    fi
-    mkdir -p profile
-
+      - name: Ensure profile folder exists
+        run: |
+          if [ -f profile ]; then
+            rm profile
+          fi
+          mkdir -p profile
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v2
