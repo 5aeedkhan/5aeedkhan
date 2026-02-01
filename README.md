@@ -9,11 +9,15 @@ I'm a passionate **Flutter Developer** focused on **cross-platform mobile applic
 ---
 
 ## 💻 Technical Skills
-- **Frontend:** Flutter, Dart, UI/UX Design  
-- **State Management:** GetX, Provider, Bloc  
-- **Backend Integration:** REST APIs, Firebase, Local Storage  
-- **Tools:** Android Studio, VS Code, Git & GitHub  
-- **Platforms:** iOS, Android, Web (Flutter)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-6CC24A?style=for-the-badge&logo=postman&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-FF6F00?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-7B42BC?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-009688?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-607D8B?style=for-the-badge)
 
 ---
 
