@@ -55,13 +55,9 @@ Actively seeking opportunities in:
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=radical&count_private=true)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5aeedkhan&layout=compact&theme=radical)
-
-<!-- Contribution Graph (replaces streaks) -->
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
