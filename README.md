@@ -32,7 +32,7 @@ I'm actively seeking opportunities to collaborate on innovative cross-platform p
 - **Portfolio**: https://saeedkhanportfolio.web.app/
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=tokyonight&count_private=true&hide=issues
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=radical)
 ---
 
 *Passionate about creating impactful mobile experiences through innovative Flutter development.*
