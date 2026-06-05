@@ -52,12 +52,15 @@ Actively seeking opportunities in:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<!-- GitHub Stats Card -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=5aeedkhan)](https://github.com/5aeedkhan/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=5aeedkhan&theme=algolia&margin-w=15" />
+</p>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=5aeedkhan&theme=tokyonight" />
+</p>
 ---
 
 *💡 Passionate about creating impactful mobile experiences through innovative Flutter development.*
