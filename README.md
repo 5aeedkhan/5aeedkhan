@@ -55,8 +55,9 @@ Actively seeking opportunities in:
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 
 ---
