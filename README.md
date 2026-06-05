@@ -55,9 +55,7 @@ Actively seeking opportunities in:
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=5aeedkhan)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
