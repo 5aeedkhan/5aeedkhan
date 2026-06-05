@@ -55,7 +55,7 @@ Actively seeking opportunities in:
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=5aeedkhan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=5aeedkhan)](https://github.com/5aeedkhan/github-profile-trophy)
 
 
 ---
