@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Flutter Developer** focused on **cross-platform mobile application development**. I craft robust, scalable applications with exceptional user experiences across **iOS and Android** platforms.
+I'm a passionate **Flutter Developer** focused on **cross-platform mobile application development**. I craft robust, scalable applications with exceptional user experiences across **iOS and Android** [...]
 
 ---
 
@@ -52,6 +52,18 @@ Actively seeking opportunities in:
 
 ---
 
+## 🎯 Live Applications
+
+### Web Applications
+- **[eexam-app](https://eexam-app.web.app/)** - Interactive examination platform
+
+### Mobile Applications (Google Play Store)
+- **[QCA LMS](https://play.google.com/store/apps/details?id=com.qca_lms.app)** - Learning Management System
+- **[iT Artificer - Sabaq](https://play.google.com/store/apps/details?id=com.itartificer.sabaq)** - Educational content delivery
+- **[Tasleem Al-Quran](https://play.google.com/store/apps/details?id=com.taq.tasleem_al_quran)** - Quranic learning application
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -61,6 +73,7 @@ Actively seeking opportunities in:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=5aeedkhan&theme=tokyonight" />
 </p>
+
 ---
 
 *💡 Passionate about creating impactful mobile experiences through innovative Flutter development.*
