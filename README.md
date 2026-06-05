@@ -62,17 +62,6 @@ Actively seeking opportunities in:
 - **[iT Artificer - Sabaq](https://play.google.com/store/apps/details?id=com.itartificer.sabaq)** - Educational content delivery
 - **[Tasleem Al-Quran](https://play.google.com/store/apps/details?id=com.taq.tasleem_al_quran)** - Quranic learning application
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=5aeedkhan&theme=algolia&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=5aeedkhan&theme=tokyonight" />
-</p>
 
 ---
 
