@@ -11,7 +11,7 @@
 ---
 
 <!-- ABOUT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="28" /> &nbsp;About Me
+## 👋 &nbsp;About Me
 
 <table>
 <tr>
@@ -77,7 +77,7 @@ MPhil CS @ Qurtuba University · AI integrations (TFLite, YOLOv8, OpenCV, NLTK)
 ---
 
 <!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> &nbsp;Tech Arsenal
+## 💻 &nbsp;Tech Arsenal
 
 <table>
 <tr>
@@ -171,7 +171,7 @@ MPhil CS @ Qurtuba University · AI integrations (TFLite, YOLOv8, OpenCV, NLTK)
 ---
 
 <!-- STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=blueberry&hide_border=true&count_private=true&rank_icon=github" height="170"/>
@@ -185,7 +185,7 @@ MPhil CS @ Qurtuba University · AI integrations (TFLite, YOLOv8, OpenCV, NLTK)
 ---
 
 <!-- EXPERIENCE -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
+## 💼 &nbsp;Experience
 
 <table>
 <tr>
@@ -215,7 +215,7 @@ MPhil CS @ Qurtuba University · AI integrations (TFLite, YOLOv8, OpenCV, NLTK)
 ---
 
 <!-- LIVE APPS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Live on Google Play & Web
+## 🚀 &nbsp;Live on Google Play & Web
 
 <table>
 <tr>
@@ -285,7 +285,7 @@ Role-based (Admin/Teacher/Student), centralized MCQ bank w/ bulk Excel upload, a
 ---
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Featured Builds
+## 🛠️ &nbsp;Featured Builds
 
 <details open>
 <summary><b>🩺 Client & Healthcare</b></summary>
@@ -331,7 +331,7 @@ Role-based (Admin/Teacher/Student), centralized MCQ bank w/ bulk Excel upload, a
 ---
 
 <!-- ARCHITECTURE / HIGHLIGHTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;What I Bring to the Table
+## 💡 &nbsp;What I Bring to the Table
 
 - 🏛️ **Architecture-first** — Clean Architecture, MVVM, layered & testable; typed exceptions + DI
 - 📦 **Offline-first** — Hive / SQLite local persistence with cloud sync strategies
@@ -343,7 +343,7 @@ Role-based (Admin/Teacher/Student), centralized MCQ bank w/ bulk Excel upload, a
 ---
 
 <!-- EDUCATION & LANGUAGES -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" /> &nbsp;Education & Languages
+## 📚 &nbsp;Education & Languages
 
 | 🎓 Education | 🗣️ Languages |
 |---|---|
@@ -353,7 +353,7 @@ Role-based (Admin/Teacher/Student), centralized MCQ bank w/ bulk Excel upload, a
 ---
 
 <!-- CONNECT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="28" /> &nbsp;Let's Connect
+## 🤝 &nbsp;Let's Connect
 
 <p align="center">
   <a href="mailto:5aeedkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-5aeedkhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
