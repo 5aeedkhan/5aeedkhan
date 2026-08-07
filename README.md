@@ -13,18 +13,60 @@
 <!-- ABOUT -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="28" /> &nbsp;About Me
 
-```dart
-class Developer extends SaeedKhan {
-  final String role       = "Flutter & Cross-Platform Mobile Engineer";
-  final String location   = "Peshawar, Pakistan";
-  final double experience = 2.5;            // years, production shipping
-  final List<String> domains = ["Healthcare", "Education", "Productivity", "AI"];
-  final List<String> stack   = ["Flutter", "Dart", "Kotlin", "Firebase", "Python"];
+<table>
+<tr>
+<td width="50%" align="center">
 
-  void currently() => "Shipping client apps + building FamilyGuard (parental control)";
-  void learning()   => "MPhil CS @ Qurtuba University · AI integrations (TFLite, YOLOv8)";
-}
-```
+🧑‍💻 **Role**
+Flutter & Cross-Platform Mobile Engineer
+
+</td>
+<td width="50%" align="center">
+
+📍 **Location**
+Peshawar, Pakistan
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+⏳ **Experience**
+2.5+ years · production shipping on Google Play
+
+</td>
+<td width="50%" align="center">
+
+🎯 **Focus Domains**
+Healthcare · Education · Productivity · AI
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+🛠️ **Core Stack**
+Flutter · Dart · Kotlin · Firebase · Python
+
+</td>
+<td width="50%" align="center">
+
+🚧 **Currently**
+Shipping client apps + building **FamilyGuard**
+
+</td>
+</tr>
+<tr>
+<td width="100%" align="center" colspan="2">
+
+🎓 **Learning**
+MPhil CS @ Qurtuba University · AI integrations (TFLite, YOLOv8, OpenCV, NLTK)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 - 🏗️ **2.5+ years** building & shipping cross-platform apps with **Flutter/Dart**, multiple apps **live on Google Play**
 - 🔌 Bridging **Flutter ↔ native Kotlin** via MethodChannel (VPN, NotificationListener, Device Admin, foreground services)
@@ -132,12 +174,12 @@ class Developer extends SaeedKhan {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ms4eedkhan&show_icons=true&theme=blueberry&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ms4eedkhan&theme=blueberry&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=blueberry&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=5aeedkhan&theme=blueberry&hide_border=true" height="170"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms4eedkhan&layout=compact&theme=blueberry&hide_border=true&langs_count=8" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ms4eedkhan&theme=blueberry&hide_border=true&area=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5aeedkhan&layout=compact&theme=blueberry&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5aeedkhan&theme=blueberry&hide_border=true&area=true" height="170"/>
 </div>
 
 ---
@@ -314,14 +356,14 @@ Role-based (Admin/Teacher/Student), centralized MCQ bank w/ bulk Excel upload, a
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="28" /> &nbsp;Let's Connect
 
 <p align="center">
-  <a href="mailto:ms4eedkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-ms4eedkhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:5aeedkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-5aeedkhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/s4eedkhan"><img src="https://img.shields.io/badge/LinkedIn-s4eedkhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://saeedkhanportfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-Saeed%20Khan-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://github.com/ms4eedkhan"><img src="https://img.shields.io/badge/GitHub-ms4eedkhan-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/5aeedkhan"><img src="https://img.shields.io/badge/GitHub-5aeedkhan-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ms4eedkhan&label=Profile%20Views&color=0175C2&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=5aeedkhan&label=Profile%20Views&color=0175C2&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
