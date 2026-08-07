@@ -245,7 +245,7 @@ Learning Management System · OTP auth, courses, video lectures, timed quizzes, 
 Google Sign-In, role-based access, QR attendance + PDF reports, lecture digitization → PPTX w/ audio → Cloudflare R2
 `Flutter · Riverpod · Clean Architecture · Firebase`
 
-<a href="https://play.google.com/store/apps/details?id=com.itartificer.sabaq"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=green"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.eduvision.app&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=green"/></a>
 
 </td>
 </tr>
@@ -276,7 +276,7 @@ Student performance tracking (Sabaq/Sabqi/Manzil), daily/weekly/monthly reports,
 Weather-aware diet plans (API caching + offline fallback), BMR nutrition tracking, background pedometer
 `Flutter · GetX · MVVM · OpenWeatherMap`
 
-<a href="https://play.google.com/store/apps/details?id=com.itartificer.sabaq"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=green"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.itartificer.weatherfit&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=green"/></a>
 
 </td>
 <td width="50%" align="center">
