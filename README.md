@@ -186,9 +186,9 @@ MPhil CS @ Qurtuba University · AI integrations (TFLite, YOLOv8, OpenCV, NLTK)
   <img src="https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=blueberry&hide_border=true&count_private=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=5aeedkhan&theme=blueberry&hide_border=true" height="170"/>
 </div>
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5aeedkhan&layout=compact&theme=blueberry&hide_border=true&langs_count=8" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5aeedkhan&theme=blueberry&hide_border=true&area=true" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5aeedkhan&theme=blueberry&hide_border=true&area=true&width=720" width="720"/>
 </div>
 
 ---
