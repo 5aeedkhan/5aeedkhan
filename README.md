@@ -13,7 +13,7 @@
 <br><br>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=800&color=0175C2&center=true&vCenter=true&multiline=true&repeat=true&width=680&lines=Building%20production-grade%20Flutter%20apps;2.5%2B%20years%20shipping%20on%20Google%20Play;Clean%20Architecture%20%E2%80%A2%20Riverpod%20%E2%80%A2%20Firebase%20%E2%80%A2%20Kotlin;Healthcare%20%E2%80%A2%20EdTech%20%E2%80%A2%20AI%20%E2%80%A2%20Productivity;Bridging%20Flutter%20with%20native%20Android%20(Kotlin)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=800&color=0175C2&center=true&vCenter=true&multiline=true&repeat=true&width=680&lines=Building%20production-grade%20Flutter%20apps;2.5%2B%20years%20of%20Flutter%20development%20experience;Clean%20Architecture%20%E2%80%A2%20Riverpod%20%E2%80%A2%20Firebase%20%E2%80%A2%20Kotlin;Healthcare%20%E2%80%A2%20EdTech%20%E2%80%A2%20AI%20%E2%80%A2%20Productivity;Bridging%20Flutter%20with%20native%20Android%20(Kotlin)" alt="Typing SVG" />
 
 </div>
 
