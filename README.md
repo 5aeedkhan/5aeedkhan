@@ -1,10 +1,19 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:54C5F8&height=220&section=header&text=Muhammad%20Saeed%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Flutter%20%7C%20Cross-Platform%20Mobile%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:54C5F8&height=200&section=header&text=Muhammad%20Saeed%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Flutter%20Developer%20%E2%80%A2%20Cross-Platform%20Mobile%20Engineer&descAlignY=52&descSize=16" width="100%"/>
+
+<!-- BADGES ROW -->
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<br><br>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&multiline=true&repeat=true&width=720&lines=Building%20production-grade%20Flutter%20apps%20%E2%9A%A1;2.5%2B%20yrs%20shipping%20on%20Google%20Play%20%F0%9F%93%B1;Clean%20Architecture%20%E2%80%A2%20Riverpod%20%E2%80%A2%20Firebase%20%E2%80%A2%20Kotlin;Healthcare%20%E2%80%A2%20EdTech%20%E2%80%A2%20AI%20%E2%80%A2%20Productivity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=800&color=0175C2&center=true&vCenter=true&multiline=true&repeat=true&width=680&lines=Building%20production-grade%20Flutter%20apps;2.5%2B%20years%20shipping%20on%20Google%20Play;Clean%20Architecture%20%E2%80%A2%20Riverpod%20%E2%80%A2%20Firebase%20%E2%80%A2%20Kotlin;Healthcare%20%E2%80%A2%20EdTech%20%E2%80%A2%20AI%20%E2%80%A2%20Productivity;Bridging%20Flutter%20with%20native%20Android%20(Kotlin)" alt="Typing SVG" />
 
 </div>
 
@@ -174,7 +183,7 @@ MPhil CS @ Qurtuba University · AI integrations (TFLite, YOLOv8, OpenCV, NLTK)
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=blueberry&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=5aeedkhan&show_icons=true&theme=blueberry&hide_border=true&count_private=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=5aeedkhan&theme=blueberry&hide_border=true" height="170"/>
 </div>
 <div align="center">
@@ -356,7 +365,7 @@ Role-based (Admin/Teacher/Student), centralized MCQ bank w/ bulk Excel upload, a
 ## 🤝 &nbsp;Let's Connect
 
 <p align="center">
-  <a href="mailto:5aeedkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-5aeedkhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ms4eedkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-ms4eedkhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/s4eedkhan"><img src="https://img.shields.io/badge/LinkedIn-s4eedkhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://saeedkhanportfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-Saeed%20Khan-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://github.com/5aeedkhan"><img src="https://img.shields.io/badge/GitHub-5aeedkhan-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
